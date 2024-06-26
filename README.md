@@ -1,1 +1,1 @@
-slots-using-py
+simple-slots-machine-using-py
